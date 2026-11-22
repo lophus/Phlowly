@@ -1,0 +1,9 @@
+{
+  "liquid_assets": [
+    "Available Libretto Smart"
+  ],
+  "runway_basis": "Availability",
+  "exclude_current_month": true,
+  "reserve": 16000.0,
+  "goals": []
+}
