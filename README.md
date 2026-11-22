@@ -7,6 +7,13 @@ happens next.
 > **Read-only by design.** The app opens the GnuCash SQLite database in `mode=ro`.
 > It never writes, updates, or changes your schema. Your book stays exactly as it is.
 
+| | |
+|---|---|
+| ![Dashboard](screenshots/Dash.png) | ![KPIs](screenshots/KPIs.png) |
+| ![Transactions](screenshots/List.png) | ![Receipt](screenshots/receipt.png) |
+| ![Plan — budget and buckets](screenshots/plan1.png) | ![Plan — scenarios and volatility](screenshots/plan2.png) |
+| ![Simulator — wealth projection](screenshots/sim1.png) | ![Simulator — goals and stress test](screenshots/sim2.png) |
+
 ## What it does
 
 - Reads accounts, transactions, tags and balances directly from GnuCash.
