@@ -102,5 +102,8 @@ The `wiki/` folder contains a friendly guide:
 - [FAQ](wiki/FAQ.md)
 
 ## License
+Phlowly is free and open-source software distributed under the GNU General Public License v3.0 (GPL-3.0).
 
-Personal project. Use it freely for your own GnuCash book.
+You are free to use, study, modify, and redistribute this software under the terms of the license.
+
+See the LICENSE file for the full license text.
